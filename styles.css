@@ -1,0 +1,19 @@
+body {
+    background-color: #ffdab9;
+    font-family: 'Courier New', Courier, monospace;
+    ;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.img {
+    width: 25%;
+    height: auto;
+}
+
+ol {
+    display: flex;
+    display: inline;
+}
